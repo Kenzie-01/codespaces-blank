@@ -2,8 +2,19 @@ Collaboration Statement (including AI usage):
 
 **Command line flag proficiency:**
 1. Give the commands (including flags) which allow you to compute the response time and turnaround time when running three jobs of length 200 with the SJF and FIFO schedulers.
+
+   * SJF - 
+   * FIFO - 
+
 2. Now do the same but with jobs of different lengths: 100, 200, and 300.
+
+   * 100 - 
+   * 200 - 
+   * 300 - 
+
 3. Now do the same, but also with the RR scheduler and a time-slice of 1.
+
+   * 
 
 **Thought questions:**
 
