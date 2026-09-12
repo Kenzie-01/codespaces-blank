@@ -1,4 +1,7 @@
 Collaboration Statement (including AI usage):
+   * For most of this project I used information from the instructions tab however I did look into finding and determining worst-case response times specifically fo the last question. In my looking I found the website linked below and used the information found in the advantages and disadvantages sections to help me with the last question.
+
+   https://cpuschedule.vercel.app/rr 
 
 **Command line flag proficiency:**
 1. Give the commands (including flags) which allow you to compute the response time and turnaround time when running three jobs of length 200 with the SJF and FIFO schedulers.
@@ -48,7 +51,13 @@ Can you use the simulator to demonstrate the trend?
 
 7. What happens to response time with RR as quantum lengths increase? What is the worst-case response time, given N jobs?
 
-   * 
+   * The respones time in RR in increased by 50% each time the quantum length is increased.
 
-   * 
+   ![alt text](<Screenshot 2026-09-11 185829-1.png>)
+
+   ![alt text](<Screenshot 2026-09-11 185856-1.png>)
+
+   ![alt text](<Screenshot 2026-09-11 185921-1.png>)
+
+   * The worst-case response time given N jobs is (N - 1)q assuming N is the number of jobs and q is the quantum length.
 
